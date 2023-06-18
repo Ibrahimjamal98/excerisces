@@ -1,0 +1,53 @@
+.test {
+   height: 650px;
+   width: 1500px;
+   position: relative;
+   
+   
+}
+
+.Header{
+    background: orange;
+    margin: 5px;
+    height: 50px;
+    text-align:center;
+    position: relative;
+    top: 10px;
+    width: 1480px;
+    left: 5px;
+    padding: 0px;
+
+}
+
+.Side{
+    background: green;
+    margin: 10px;
+    height: 500px;
+    width: 470px;
+    position: relative;
+    bottom: 520px;
+    float: left;
+    padding: 0px;
+}
+
+.Main{
+    background: purple;
+    margin: 10px;
+    height: 500px;
+    width: 1000px;
+    float: right;
+    text-align: right;
+    position: relative;
+    padding: 0px;
+}
+
+.Footer{
+    background: blue;
+    margin: 10px;
+    height: 50px;
+    top: 510px;
+    position: relative;
+    text-align: center;
+    padding: 0px;
+    
+}

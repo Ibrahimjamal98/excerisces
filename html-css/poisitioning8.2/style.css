@@ -1,0 +1,20 @@
+#outer {
+    position: relative;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    text-align: left;
+    background: skyblue;
+  }
+  
+  #inner {
+    position: absolute;
+    top: 30%;
+    left: 0px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background: green;
+    
+  }

@@ -1,0 +1,42 @@
+div {
+  position: absolute;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 20px;
+}
+
+#div1 {
+  top: 10px;
+  left: 10px;
+  height: 300px;
+  width: 350px;
+  text-align: left;
+  
+}
+
+#div2 {
+  
+  left: 200px;
+  top: 200px;
+  padding: 100px;
+  height: 90px;
+  text-align: left;
+}
+
+#div3 {
+  bottom: 229px;
+  left: 10px;
+  width: 750px;
+  height: 200px;
+  text-align: left;
+}
+
+#div4 {
+  bottom: 100px;
+  right: 1200px;
+  height: 810px;
+  text-align: start;
+}

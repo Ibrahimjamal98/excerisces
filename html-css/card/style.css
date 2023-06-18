@@ -1,0 +1,47 @@
+*{
+    font-family: "Poppines", sans-serif;
+    font-weight: bold;
+    position: relative;
+}
+
+.cards{
+    border: 1px solid black;
+    width: 600px;
+    height: 650px;
+    position: relative;
+    border-radius: 5%;
+    left: 600px;
+    padding-bottom: 20px;
+    background: linear-gradient(#D5A3FF 80%, #77A5F8 100%);
+    bottom: 1000px;
+    
+    
+}
+
+.cards > img{
+    border-radius: 3%;
+    border-radius: 10%;
+    border: ;
+}
+
+.cards > p {
+    text-align: center;
+    color: white;
+    font-family: "Poppines", sans-serif;
+}
+
+.button{
+    height: 50px;
+    width: 100px;
+    border: none;
+    position: relative;
+    left: 40%;
+    top: 20px;
+    font-size: smaller;
+    color: grey;
+    
+}
+
+.price{
+    font-size: larger;
+}
